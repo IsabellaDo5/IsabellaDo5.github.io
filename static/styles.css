@@ -27,6 +27,10 @@
     top:65vh !important;
     right:10vw !important;
 }
+.servicios-inicio{
+    padding-top: 5vh !important;
+    padding-bottom: 7vh !important;
+}
 .azul{
     background-color: #0b293d;
     padding: 1% !important;
@@ -136,7 +140,9 @@
 
 }
 
-
+.li-footer{
+    margin-right: 0% !important;
+}
 h2{
     margin:5vh !important;
 }
