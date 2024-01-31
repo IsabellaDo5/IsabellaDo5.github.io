@@ -6,8 +6,9 @@
         "inicio": "Inicio",
         "nosotros": "Nosotros",
         "servicios": "Servicios",
-        "servicios1": "Estudios de suelos",
-        "servicios2": "Control de calidad",
+        "servicio1": "Estudios geotécnicos",
+        "servicio2": "Control de calidad de materiales",
+        "servicio3": "Perforación",
         "proyectos": "Proyectos",
         "contacto": "Contacto",
         "idioma": "Idioma"
@@ -17,18 +18,21 @@
         "btn-contactanos": "Contáctanos",
         "info-contacto": " ",
         "titulo-servicios": "NUESTROS SERVICIOS",
-        "servicio1": "Estudios de suelos",
-        "servicio2": "Control de calidad",
-        "servicio3": "Nose",
+        "servicio1": "Estudios geotécnicos",
+        "servicio2": "Control de calidad de materiales",
+        "servicio3": "Perforación",
         "titulo-nosotros": "SOBRE NOSOTROS",
         "texto-nosotros": "En el año 2,004, el ingeniero consultor con estudios de Maestría en Mecánica de Suelos, Oscar Osvaldo Jirón Boza, viendo la necesidad que tenía Nicaragua, en el campo de la ingeniería, de desarrollar técnicamente y cuantitativamente la rama de estudios geotécnicos y de materiales de construcción, fundó la empresa ingeniera Geotecnia de Nicaragua (GEONIC) que es una empresa que a manera general realiza estudios ingenieros y brinda servicios de investigación en el ramo de geología y geotecnia",
         "titulo-proyectos": "PROYECTOS"
     },
-    "estudios-suelos":{
-        "titulo": "ESTUDIOS DE SUELOS"
+    "estudios-geotecnicos":{
+        "titulo": "ESTUDIOS GEOTÉCNICOS"
     },
     "control-materiales":{
         "titulo": "CONTROL DE CALIDAD DE MATERIALES"
+    },
+    "perforacion":{
+        "titulo": "PERFORACIÓN"
     },
     "nosotros":{
         "titulo":"SOBRE NOSOTROS"

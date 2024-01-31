@@ -114,7 +114,8 @@
 .descripcion-servicio{
     margin-top: 2rem !important;
     margin-bottom: 2rem !important;
-    margin-left: 6vh !important;
+    padding-left: 8vh !important;
+    padding-right: 8vh !important;
 }
 .imagen-servicio{
     margin-top: 5vh !important;
@@ -156,7 +157,7 @@ h3, .card h3{
     font-size: 1.5rem;
     font-weight: 600;
 }
-h2, h3 {
+h2, h3, h4 {
     
     font-family: 'Montserrat', sans-serif;
     font-weight: 700 !important;
@@ -191,7 +192,8 @@ li,a{
         top: 72vh !important;
     }
     .descripcion-servicio{
-        margin-left: 1vw !important;
+       padding-left: 6vw !important;
+       padding-right: 6vw !important;
     }
     .nav-ul{
         font-size: 0.95rem !important;
