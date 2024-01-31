@@ -27,6 +27,9 @@
     "estudios-suelos":{
         "titulo": "SOIL STUDIES"
     },
+    "control-materiales":{
+        "titulo": "CONTROL DE CALIDAD DE MATERIALES"
+    },
     "nosotros":{
         "titulo":"ABOUT US",
         "contenido": ""
