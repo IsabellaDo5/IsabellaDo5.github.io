@@ -148,7 +148,16 @@
     margin-right: 0% !important;
 }
 .carousel-item{
-    margin: 5vh !important;   
+    padding-left: 10vw !important;
+    padding-right: 10vw !important;
+    padding-bottom: 5vw !important;
+   /* margin: 5vh !important;   */
+}
+
+.imagen-proyectos{
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
 }
 h2{
     margin:5vh !important;
@@ -186,7 +195,7 @@ li,a{
     }
     .texto-derecha{
         width: 80vw;
-        top: 20vh !important;
+        top: 30vh !important;
     }
     .info{
         top: 72vh !important;
@@ -196,7 +205,7 @@ li,a{
        padding-right: 6vw !important;
     }
     .nav-ul{
-        font-size: 0.95rem !important;
+        font-size: 0.98rem !important;
     }
 
 
