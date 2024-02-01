@@ -212,7 +212,9 @@ li,a{
     .nav-ul{
         font-size: 0.98rem !important;
     }
-
+    .texto-derecha, .info{
+        font-size: 1rem !important;
+    }
 
   }
 
@@ -222,11 +224,14 @@ li,a{
       }
   }
 
-  @media only screen and (min-width: 901px) {
+  @media only screen and (min-width: 950px) {
     .logo {
         width: 115% !important;
       }
       .nav-ul {
         font-size: 1.3rem !important;
+    }
+    .texto-derecha, .info{
+        font-size: 1.5rem !important;
     }
   }
