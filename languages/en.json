@@ -8,7 +8,8 @@
         "servicios": "Services",
         "servicio1": "Soil studies",
         "servicio2": "Quality control",
-        "servicio3": "Drillings",
+        "servicio3": "Soil laboratory",
+        "servicio4": "Drillings",
         "proyectos": "Projects",
         "contacto": "Contact us",
         "idioma": "Language"
@@ -20,16 +21,21 @@
         "titulo-servicios": "OUR SERVICES",
         "servicio1": "Geotechnical Studies",
         "servicio2": "Quality Control of Materials",
-        "servicio3": "Drilling",
+        "servicio3": "Soil laboratory",
+        "servicio4": "Drilling",
         "titulo-nosotros": "SOBRE NOSOTROS",
         "texto-nosotros": "We specialize in the planning and execution of soil studies of various scales, supported by a multidisciplinary team that ensures excellence in the quality of our work.",
-        "titulo-proyectos": "PROYECTOS"
+        "titulo-proyectos": "OUR PROJECTS"
     },
     "estudios-geotecnicos":{
         "titulo": "GEOTECHNICAL STUDIES"
     },
     "control-materiales":{
         "titulo": "CONTROL DE CALIDAD DE MATERIALES"
+    },
+    "laboratorio-suelos":{
+        "titulo":"SOIL LABORATORY",
+        "text": ""
     },
     "perforacion":{
         "titulo": "DRILLING"

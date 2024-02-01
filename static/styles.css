@@ -60,10 +60,15 @@
     --bs-btn-hover-border-color:#0b293d !important;
 }
 .btn-servicios:hover, .card:hover{
-    box-shadow: 0 0 11px rgba(33,33,33,.2) !important;
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.158) !important;
 }
 .card{
+    transition: box-shadow .4s;
     margin-bottom: 2rem !important;
+}
+.card-header{
+    color:#0f3d56 !important;
+    text-align: center !important;
 }
 .servicios-lista{
     max-width: 60% !important;
