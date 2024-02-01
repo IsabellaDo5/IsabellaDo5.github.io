@@ -193,7 +193,7 @@ li,a{
 
 @media only screen and (max-width: 900px) {
     .logo {
-      width: 80%;
+      width: 85%;
     }
     .servicios-lista{
         max-width: 100% !important;
@@ -218,6 +218,6 @@ li,a{
 
   @media only screen and (max-width: 500px) {
     .logo {
-        width: 70%;
+        width: 85%;
       }
   }
