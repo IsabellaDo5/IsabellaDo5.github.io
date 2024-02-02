@@ -195,6 +195,9 @@
     height: 40vh;
     object-fit: cover;
 }
+.dropdown-menu{
+    --bs-dropdown-min-width: 0% !important;
+}
 
 h2 {
     margin: 5vh !important;
@@ -230,7 +233,7 @@ a {
 
 
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 980px) {
     .logo {
         width: 92%;
     }
@@ -262,7 +265,7 @@ a {
         font-size: 1rem !important;
     }
     .lang-icon{
-        width: 1.5rem !important;
+        width: 2.5rem !important;
     }
 
 }
@@ -273,7 +276,7 @@ a {
     }
 }
 
-@media only screen and (min-width: 951px) {
+@media only screen and (min-width: 981px) {
     .logo {
         width: 115% !important;
     }
@@ -287,6 +290,6 @@ a {
         font-size: 1.5rem !important;
     }
     .lang-icon{
-        width: 2.2rem !important;
+        width: 2.7rem !important;
     }
 }
