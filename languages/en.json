@@ -31,7 +31,10 @@
         "titulo": "GEOTECHNICAL STUDIES"
     },
     "control-materiales":{
-        "titulo": "CONTROL DE CALIDAD DE MATERIALES"
+        "titulo": "QUALITY CONTROL OF MATERIALS"
+    },
+    "control-cal-suelos":{
+        "titulo":"SOIL QUALITY CONTROL"
     },
     "laboratorio-suelos":{
         "titulo":"SOIL LABORATORY",

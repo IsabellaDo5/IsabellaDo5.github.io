@@ -33,9 +33,13 @@
     "control-materiales":{
         "titulo": "CONTROL DE CALIDAD DE MATERIALES"
     },
+    "control-cal-suelos":{
+        "titulo":"CONTROL DE CALIDAD DE SUELOS"
+    },
     "laboratorio-suelos":{
         "titulo":"LABORATORIO DE SUELOS"
     },
+
     "perforacion":{
         "titulo": "PERFORACIÓN"
     },
