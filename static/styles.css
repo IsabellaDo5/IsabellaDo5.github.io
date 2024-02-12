@@ -198,7 +198,9 @@
 .dropdown-menu{
     --bs-dropdown-min-width: 0% !important;
 }
-
+.card-desc{
+    padding:2rem !important;
+}
 h2 {
     margin: 5vh !important;
 }
