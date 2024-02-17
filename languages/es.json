@@ -21,40 +21,56 @@
         "titulo-servicios": "NUESTROS SERVICIOS",
         "servicio1": "Estudios geotécnicos",
         "servicio2": "Control de calidad de materiales",
-        "servicio3":"Laboratorio de suelos",
+        "servicio3": "Laboratorio de suelos",
         "servicio4": "Perforación",
         "titulo-nosotros": "SOBRE NOSOTROS",
         "texto-nosotros": "Nos especializamos en la planificación y ejecución de estudios de suelos de diversas escalas, respaldados por un equipo multidisciplinario que asegura la excelencia en la calidad de nuestro trabajo.",
         "titulo-proyectos": "PROYECTOS"
     },
-    "estudios-geotecnicos":{
-        "titulo": "ESTUDIOS GEOTÉCNICOS"
+    "estudios-geotecnicos": {
+        "titulo": "ESTUDIOS GEOTÉCNICOS",
+        "info-1":"En Geonicsa, nos destacamos como líderes en el campo de la geotecnia, ofreciendo soluciones especializadas para proyectos de construcción y desarrollo. Nuestra experiencia en estudios de suelos y evaluación geotécnica nos distingue como el socio confiable para comprender a fondo la estabilidad del terreno. Desde la clasificación detallada de suelos hasta la evaluación precisa de la capacidad portante, en Geonicsa nos comprometemos a proporcionar datos cruciales para tomar decisiones informadas y mitigar riesgos.",
+        "estudios-cimentacion": "Estudios Geotécnicos de cimentación",
+        "estudios-cimentacion-desc": "Los estudios geotécnicos de cimentación son evaluaciones especializadas que se llevan a cabo para comprender las características geológicas y geotécnicas del suelo en un sitio específico, con el objetivo de diseñar cimientos seguros y eficientes para estructuras de construcción. Estos estudios son esenciales para garantizar la estabilidad y la seguridad a largo plazo de cualquier edificación.",
+        "disenio-espesores-pav": "Diseño de espesores de pavimento",
+        "disenio-espesores-pav-desc": "El diseño de espesores de pavimento es un proceso ingenieril que implica determinar las dimensiones adecuadas y el tipo de capas que componen un pavimento para garantizar su resistencia y durabilidad. Este diseño se realiza con el objetivo de soportar las cargas de tráfico, resistir las condiciones climáticas y proporcionar un servicio funcional y seguro a lo largo de su vida útil.",
+        "pruebas-infiltracion": "Pruebas de infiltración",
+        "pruebas-infiltracion-desc":"Las pruebas de infiltración son procedimientos utilizados para evaluar la capacidad de un suelo para absorber agua y permitir su paso hacia las capas subyacentes. Estas pruebas son esenciales en el campo de la hidrogeología y la ingeniería geotécnica para comprender la permeabilidad del suelo, lo cual es crucial en el diseño de estructuras, gestión de recursos hídricos y evaluación del potencial de inundaciones."    
     },
-    "control-materiales":{
-        "titulo": "CONTROL DE CALIDAD DE MATERIALES"
+    "control-materiales": {
+        "titulo": "CONTROL DE CALIDAD DE MATERIALES",
+        "resumen": "En Geonicsa, nuestro compromiso con la calidad va más allá de la geotecnia. Ofrecemos servicios especializados en el control de calidad de materiales, asegurando que cada componente utilizado en su proyecto cumpla con los más altos estándares. Desde la selección meticulosa de materiales hasta la supervisión en el sitio, nuestro equipo dedicado se asegura de que cada elemento contribuya a la excelencia y durabilidad de su proyecto.",
+        "producto-1":"Control de calidad del concreto",
+        "producto-2":"Control de calidad de los suelos"
+    
     },
-    "control-cal-suelos":{
-        "titulo":"CONTROL DE CALIDAD DE SUELOS"
+    "control-calidad-suelos": {
+        "titulo": "CONTROL DE CALIDAD DE SUELOS",
+        "resumen": "El control de calidad de los suelos mediante pruebas de compactación, utilizando métodos como el cono de arena y el densímetro nuclear, es esencial en la ingeniería civil y la construcción para evaluar la capacidad de soporte y la densidad de los suelos. A continuación, se describen brevemente ambos métodos:",
+        "metodo-1-titulo": "Prueba de Compactación con Cono de Arena",
+        "metodo-1-desc": "<p> Se realiza con el propósito de evaluar la densidad máxima y la humedad óptima de un suelo compactado. </p> <b>Procedimiento:</b> <br><ol><li>Se extrae una muestra representativa del suelo.</li> <li>Se mide la humedad inicial de la muestra. </li><li>Se coloca una capa del suelo en el molde de compactación y se compacta utilizando el cono de arena.</li> <li>Se mide la densidad seca y la humedad después de la compactación.</li> <li>Se repite el proceso con diferentes contenidos de humedad para determinar la curva de compactación.</li></ol><p><b>Resultado:</b> Se obtienen datos que permiten identificar la humedad óptima y la densidad máxima del suelo compactado. </p>",
+        "metodo-2-titulo": "Prueba de Compactación con Densímetro Nuclear",
+        "metodo-2-desc": "<p>  Medir la densidad in situ de un suelo y proporcionar información sobre la calidad de la compactación. </p><b>Procedimiento:</b> <br><ol><li>Se coloca el densímetro nuclear sobre la superficie del suelo compactado.</li><li>Se emite una fuente de radiación gamma hacia el suelo.</li><li>El densímetro mide la radiación dispersa, que está relacionada con la densidad del suelo.</li> <li>Se repite el proceso en varios puntos para obtener datos representativos. </li></ol><p><b>Resultado:</b>  Se obtienen lecturas directas de la densidad del suelo sin necesidad de extraer muestras.</p>"
     },
-    "laboratorio-suelos":{
-        "titulo":"LABORATORIO DE SUELOS"
+    "laboratorio-suelos": {
+        "titulo": "LABORATORIO DE SUELOS",
+        "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo.<br> <br> Un laboratorio de suelos es una instalación especializada en la que se llevan a cabo pruebas y análisis detallados para evaluar las propiedades físicas y mecánicas de los suelos. Estos laboratorios desempeñan un papel fundamental en la ingeniería civil, geotécnica, construcción y otras disciplinas relacionadas, ya que proporcionan información esencial para el diseño y la construcción de estructuras seguras y eficientes. Aquí se describen algunas de las funciones actividades comunes realizadas en un laboratorio de suelos:"
     },
-
-    "perforacion":{
+    "perforacion": {
         "titulo": "PERFORACIÓN"
     },
-    "nosotros":{
-        "titulo":"SOBRE NOSOTROS"
+    "nosotros": {
+        "titulo": "SOBRE NOSOTROS",
+        "info-1": "<strong> GEONICSA </strong>, una firma consultora con más de dos décadas de experiencia, se estableció con el compromiso de realizar nuestro trabajo con los estándares de calidad y excelencia que nos han definido desde nuestra fundación hasta la actualidad. <br><br> Nos especializamos en la planificación y ejecución de estudios de suelos de diversas escalas, respaldados por un equipo multidisciplinario que asegura la excelencia en la calidad de nuestro trabajo. <br><br> En GEONICSA, abogamos por la transparencia y sinceridad en todas nuestras interacciones con clientes tanto nacionales como internacionales. Este enfoque nos permite garantizar la claridad necesaria para mantener la calidad en cada uno de nuestros servicios."
     },
-    "proyectos":{
+    "proyectos": {
         "titulo": "Nuestros proyectos"
     },
-    "datos-contacto":{
+    "datos-contacto": {
         "titulo": "CONTÁCTANOS",
         "tel": "Llámanos o escríbenos a nuestro Whatsapp",
         "tel-desc": "O envíanos un mensaje a nuestro Whatsapp",
         "email": "E-Mail",
         "ubi": "Nuestra ubicación"
     }
-
 }

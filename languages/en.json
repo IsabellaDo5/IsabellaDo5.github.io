@@ -7,7 +7,7 @@
         "nosotros": "About us",
         "servicios": "Services",
         "servicio1": "Geotechnical Studies",
-        "servicio2": "Quality control",
+        "servicio2": "Material Quality Control",
         "servicio3": "Soil laboratory",
         "servicio4": "Drillings",
         "proyectos": "Projects",
@@ -20,7 +20,7 @@
         "info-contacto": " ",
         "titulo-servicios": "OUR SERVICES",
         "servicio1": "Geotechnical Studies",
-        "servicio2": "Quality Control of Materials",
+        "servicio2": "Material Quality Control",
         "servicio3": "Soil laboratory",
         "servicio4": "Drilling",
         "titulo-nosotros": "SOBRE NOSOTROS",
@@ -28,24 +28,39 @@
         "titulo-proyectos": "OUR PROJECTS"
     },
     "estudios-geotecnicos":{
-        "titulo": "GEOTECHNICAL STUDIES"
+        "titulo": "GEOTECHNICAL STUDIES",
+        "info-1": "At Geonicsa, we excel as leaders in the field of geotechnics, offering specialized solutions for construction and development projects. Our expertise in soil studies and geotechnical evaluation distinguishes us as the reliable partner to thoroughly understand ground stability. From detailed soil classification to precise bearing capacity evaluation, at Geonicsa, we commit to providing crucial data to make informed decisions and mitigate risks.",
+        "estudios-cimentacion": "Foundation Geotechnical Studies",
+        "estudios-cimentacion-desc": "Foundation geotechnical studies are specialized assessments conducted to understand the geological and geotechnical characteristics of the soil at a specific site, aiming to design safe and efficient foundations for construction structures. These studies are essential to ensure the long-term stability and safety of any building.",
+        "disenio-espesores-pav": "Pavement Thickness Design",
+        "disenio-espesores-pav-desc": "Pavement thickness design is an engineering process involving determining the appropriate dimensions and type of layers composing a pavement to ensure its strength and durability. This design is carried out to support traffic loads, resist weather conditions, and provide functional and safe service throughout its lifespan.",
+        "pruebas-infiltracion": "Infiltration Tests",
+        "pruebas-infiltracion-desc": "Infiltration tests are procedures used to assess a soil's ability to absorb water and allow it to pass through to underlying layers. These tests are essential in the fields of hydrogeology and geotechnical engineering to understand soil permeability, which is crucial in the design of structures, water resource management, and flood potential evaluation."    
     },
     "control-materiales":{
-        "titulo": "QUALITY CONTROL OF MATERIALS"
+        "titulo": "MATERIAL QUALITY CONTROL",
+        "resumen": "At Geonicsa, our commitment to quality goes beyond geotechnics. We offer specialized services in material quality control, ensuring that every component used in your project meets the highest standards. From meticulous material selection to on-site supervision, our dedicated team ensures that each element contributes to the excellence and durability of your project.",
+        "producto-1":"",
+        "producto-2":"Soil Quality Control"
     },
-    "control-cal-suelos":{
-        "titulo":"SOIL QUALITY CONTROL"
+    "control-calidad-suelos":{
+        "titulo":"SOIL QUALITY CONTROL",
+        "resumen": "Soil quality control through compaction tests, using methods such as the sand cone and nuclear densometer, is essential in civil engineering and construction to assess the bearing capacity and density of soils. Below are brief descriptions of both methods:",
+        "metodo-1-titulo": "Sand Cone Compaction Test",
+        "metodo-1-desc":"<p> Evaluate the maximum density and optimal moisture of compacted soil.</p><b> Procedure: </b> <ol> <li>A representative soil sample is extracted. </li> <li> The initial moisture of the sample is measured. </li> <li> A layer of soil is placed in the compaction mold and compacted using the sand cone. </li> <li> The dry density and moisture after compaction are measured.</li> <li> The process is repeated with different moisture contents to determine the compaction curve.</li> </ol> <p> <b> Result </b>: Data is obtained to identify the optimal moisture and maximum density of compacted soil. </p>",
+        "metodo-2-titulo": "Nuclear Densometer Compaction Test",
+        "metodo-2-desc": "<p> Measure the in-situ density of soil and provide information on the quality of compaction.</p> <b>Procedure: </b><ol><li>The nuclear densometer is placed on the surface of the compacted soil.</li><li>A gamma radiation source is emitted towards the soil.</li><li>The densometer measures the scattered radiation, which is related to the soil density.</li><li>The process is repeated at various points to obtain representative data.</li></ol> <p> <b>Result:</b> Direct readings of soil density are obtained without the need for sample extraction.</p>"  
     },
     "laboratorio-suelos":{
         "titulo":"SOIL LABORATORY",
-        "text": ""
+        "resumen": "We work according to the construction specifications in Nicaragua, conducting comprehensive soil and material quality control tests. We strictly apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.<br> <br> A soil laboratory is a specialized facility where detailed tests and analyses are conducted to evaluate the physical and mechanical properties of soils. These laboratories play a fundamental role in civil engineering, geotechnics, construction, and related disciplines, as they provide essential information for the design and construction of safe and efficient structures. Here are some of the common functions and activities carried out in a soil laboratory:"
     },
     "perforacion":{
         "titulo": "DRILLING"
     },
     "nosotros":{
         "titulo":"ABOUT US",
-        "contenido": ""
+        "info-1": "<strong> Geonicsa </strong>, a consulting firm with more than two decades of experience, was established with the commitment to carry out our work with the quality and excellence standards that have defined us since our foundation to the present day. <br><br> We specialize in planning and executing soil studies of various scales, backed by a multidisciplinary team that ensures excellence in the quality of our work. <br><br> At Geonicsa, we advocate for transparency and honesty in all our interactions with both national and international clients. This approach allows us to guarantee the necessary clarity to maintain quality in each of our services."
     },
     "proyectos":{
         "titulo": "OUR PROJECTS"
