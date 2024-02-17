@@ -53,7 +53,23 @@
     },
     "laboratorio-suelos":{
         "titulo":"SOIL LABORATORY",
-        "resumen": "We work according to the construction specifications in Nicaragua, conducting comprehensive soil and material quality control tests. We strictly apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.<br> <br> A soil laboratory is a specialized facility where detailed tests and analyses are conducted to evaluate the physical and mechanical properties of soils. These laboratories play a fundamental role in civil engineering, geotechnics, construction, and related disciplines, as they provide essential information for the design and construction of safe and efficient structures. Here are some of the common functions and activities carried out in a soil laboratory:"
+        "resumen": "We work according to the construction specifications in Nicaragua, conducting comprehensive soil and material quality control tests. We strictly apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.<br> <br> A soil laboratory is a specialized facility where detailed tests and analyses are conducted to evaluate the physical and mechanical properties of soils. These laboratories play a fundamental role in civil engineering, geotechnics, construction, and related disciplines, as they provide essential information for the design and construction of safe and efficient structures. Here are some of the common functions and activities carried out in a soil laboratory:",
+        "actividad-1-titulo": "Sample Preparation",
+        "actividad-1-desc":"Soil laboratories receive soil samples taken from specific sites, either during subsurface exploration or as part of construction projects. The preparation of these samples is a critical initial phase.",
+        
+        "actividad-2-titulo": "Grain Size Analysis",
+        "actividad-2-desc":"The distribution of particle sizes in a soil sample is determined. This is essential for classifying the soil according to classification systems such as the Unified Soil Classification System (USCS).",
+        
+        "actividad-3-titulo": "Atterberg Limits",
+        "actividad-3-desc":"Tests are conducted to determine the plasticity and liquid limits of the soil. These limits are important for understanding the soil's behavior under different moisture conditions.",
+        
+        "actividad-4-titulo": "Compaction Tests",
+        "actividad-4-desc":"Compaction tests are carried out to evaluate the maximum density and optimal moisture of the soil under specific compaction conditions. This is essential for the design of embankments and foundations.",
+       
+        "actividad-5-titulo": "Direct Shear and Triaxial Tests",
+        "actividad-5-desc":"Tests are conducted to assess the soil's shear strength under different stress conditions. This is crucial for the design of retaining structures, containment walls, and other geotechnical elements.",
+        "actividad-6-titulo": "Consolidation Tests"
+
     },
     "perforacion":{
         "titulo": "DRILLING"

@@ -54,7 +54,25 @@
     },
     "laboratorio-suelos": {
         "titulo": "LABORATORIO DE SUELOS",
-        "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo.<br> <br> Un laboratorio de suelos es una instalación especializada en la que se llevan a cabo pruebas y análisis detallados para evaluar las propiedades físicas y mecánicas de los suelos. Estos laboratorios desempeñan un papel fundamental en la ingeniería civil, geotécnica, construcción y otras disciplinas relacionadas, ya que proporcionan información esencial para el diseño y la construcción de estructuras seguras y eficientes. Aquí se describen algunas de las funciones actividades comunes realizadas en un laboratorio de suelos:"
+        "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo.<br> <br> Un laboratorio de suelos es una instalación especializada en la que se llevan a cabo pruebas y análisis detallados para evaluar las propiedades físicas y mecánicas de los suelos. Estos laboratorios desempeñan un papel fundamental en la ingeniería civil, geotécnica, construcción y otras disciplinas relacionadas, ya que proporcionan información esencial para el diseño y la construcción de estructuras seguras y eficientes. Aquí se describen algunas de las funciones actividades comunes realizadas en un laboratorio de suelos:",
+        "actividad-1-titulo": "Preparación de muestras",
+        "actividad-1-desc":"Los laboratorios de suelos reciben muestras de suelos tomadas de sitios específicos, ya sea durante la exploración del subsuelo o como parte de proyectos de construcción. La preparación de estas muestras es una fase inicial crítica.",
+        
+        "actividad-2-titulo": "Análisis de Granulometría",
+        "actividad-2-desc":"Se determina la distribución de tamaños de partículas en una muestra de suelo. Esto es esencial para clasificar el suelo según sistemas de clasificación como el sistema de clasificación de suelos unificado (USCS).",
+        
+        "actividad-3-titulo": "Límites de Atterberg",
+        "actividad-3-desc":"Se realizan pruebas para determinar los límites de plasticidad y límites de liquidez del suelo. Estos límites son importantes para comprender el comportamiento del suelo bajo diferentes condiciones de humedad.",
+        
+        "actividad-4-titulo": "Pruebas de Compactación",
+        "actividad-4-desc":"Se llevan a cabo pruebas de compactación para evaluar la densidad máxima y la humedad óptima del suelo bajo condiciones específicas de compactación. Esto es esencial para el diseño de terraplenes y cimentaciones.",
+        
+        "actividad-5-titulo": "Pruebas de Corte Directo y Triaxiales",
+        "actividad-5-desc":"Se realizan pruebas para evaluar la resistencia al corte del suelo en diferentes condiciones de esfuerzo. Esto es crucial para el diseño de estructuras de retención, muros de contención y otros elementos geotécnicos.",
+        
+        "actividad-6-titulo": "Pruebas de consolidación",
+        "actividad-6-desc":""
+
     },
     "perforacion": {
         "titulo": "PERFORACIÓN"
