@@ -14,6 +14,14 @@
         "contacto": "Contacto",
         "idioma": "Idioma"
     },
+    "footer":{
+        "contacto":"Contáctanos",
+        "redes": "Nuestras redes sociales",
+        "horario": "Horario",
+        "dias-habiles": "Lunes a Viernes:",
+        "dias-no-habiles":"Sábado y Domingo:",
+        "ubicacion": "Nuestra ubicación"
+    },
     "inicio": {
         "texto-inicial": "",
         "btn-contactanos": "Contáctanos",

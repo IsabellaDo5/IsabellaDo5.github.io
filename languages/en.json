@@ -14,6 +14,14 @@
         "contacto": "Contact us",
         "idioma": "Language"
     },
+    "footer":{
+        "contacto":"Contact us",
+        "redes": "Our social networks",
+        "horario": "Schedule",
+        "dias-habiles": "Monday to Friday:",
+        "dias-no-habiles":"Sunday and Monday:",
+        "ubicacion": "Our location"
+    },
     "inicio": {
         "texto-inicial": "",
         "btn-contactanos": "Contact us",
