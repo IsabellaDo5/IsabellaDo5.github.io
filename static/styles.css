@@ -222,6 +222,8 @@ h4 {
 p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    text-align: justify !important;
+    text-justify: inter-word;
 }
 
 li,
