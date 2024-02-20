@@ -80,7 +80,9 @@
     transition: box-shadow .4s;
     margin-bottom: 2rem !important;
 }
-
+.card-servicio{
+    height:90% !important;
+}
 .card-header {
     color: #0f3d56 !important;
     text-align: center !important;

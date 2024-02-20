@@ -4,14 +4,14 @@
     },
     "nav": {
         "inicio": "Home",
-        "nosotros": "About us",
+        "nosotros": "About",
         "servicios": "Services",
         "servicio1": "Geotechnical Studies",
         "servicio2": "Material Quality Control",
         "servicio3": "Soil laboratory",
         "servicio4": "Drillings",
         "proyectos": "Projects",
-        "contacto": "Contact us",
+        "contacto": "Contact",
         "idioma": "Language"
     },
     "footer":{
@@ -49,7 +49,7 @@
     "control-materiales":{
         "titulo": "MATERIAL QUALITY CONTROL",
         "resumen": "At Geonicsa, our commitment to quality goes beyond geotechnics. We offer specialized services in material quality control, ensuring that every component used in your project meets the highest standards. From meticulous material selection to on-site supervision, our dedicated team ensures that each element contributes to the excellence and durability of your project.",
-        "producto-1":"",
+        "producto-1":"Concrete quality control",
         "producto-2":"Soil Quality Control"
     },
     "control-calidad-suelos":{
