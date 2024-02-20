@@ -1,3 +1,6 @@
+
+
+/**/
 .logo {
     width: 95%;
     height: fit-content;
@@ -86,6 +89,9 @@
 .card-header {
     color: #0f3d56 !important;
     text-align: center !important;
+    background-color: white !important;
+    
+    border-bottom: 0 !important;
 }
 
 .servicios-lista {
@@ -201,7 +207,7 @@
     --bs-dropdown-min-width: 0% !important;
 }
 .card-desc{
-    padding:2rem !important;
+    padding:1.8rem !important;
 }
 h2 {
     margin: 5vh !important;
