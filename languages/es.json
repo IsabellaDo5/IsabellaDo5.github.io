@@ -20,7 +20,7 @@
         "horario": "Horario",
         "dias-habiles": "Lunes a Viernes:",
         "sabado":"Sábados:",
-        "domingo":"Domingos:",
+        "horario-domingo":"Domingos: <li>CERRADO</li>",
         "ubicacion": "Nuestra ubicación"
     },
     "inicio": {

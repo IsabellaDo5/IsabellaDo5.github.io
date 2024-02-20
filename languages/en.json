@@ -20,7 +20,7 @@
         "horario": "Schedule",
         "dias-habiles": "Monday to Friday:",
         "sabado":"Saturday:",
-        "domingo":"Sunday:",
+        "horario-domingo":"Sunday: <li>CLOSED </li>",
         "ubicacion": "Our location"
     },
     "inicio": {
