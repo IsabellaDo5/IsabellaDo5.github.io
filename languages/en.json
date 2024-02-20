@@ -19,7 +19,8 @@
         "redes": "Our social networks",
         "horario": "Schedule",
         "dias-habiles": "Monday to Friday:",
-        "dias-no-habiles":"Sunday and Monday:",
+        "sabado":"Saturday:",
+        "domingo":"Sunday:",
         "ubicacion": "Our location"
     },
     "inicio": {
@@ -80,7 +81,10 @@
 
     },
     "perforacion":{
-        "titulo": "DRILLING"
+        "titulo": "DRILLING", 
+        "resumen": "Geonicsa has an in-house drilling department dedicated to conducting soil studies, providing services to a variety of clients in the construction sector. The company specializes in rock and soil drilling, equipped with the appropriate equipment for such purposes. In this aspect, the firm has portable equipment and rotary drilling machines, complemented with their respective accessories.",
+        "servicios-titulo": "The drilling services we offer include:",
+        "servicios-lista": "<ul> <li> Deep drilling using rotary machines and bentonite muds.</li><li> Percussion drilling. </li> <li>Standard penetration test (SPT).</li> </ul>"
     },
     "nosotros":{
         "titulo":"ABOUT US",

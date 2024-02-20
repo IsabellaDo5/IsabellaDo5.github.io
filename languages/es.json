@@ -19,7 +19,8 @@
         "redes": "Nuestras redes sociales",
         "horario": "Horario",
         "dias-habiles": "Lunes a Viernes:",
-        "dias-no-habiles":"Sábado y Domingo:",
+        "sabado":"Sábados:",
+        "domingo":"Domingos:",
         "ubicacion": "Nuestra ubicación"
     },
     "inicio": {
@@ -83,7 +84,11 @@
 
     },
     "perforacion": {
-        "titulo": "PERFORACIÓN"
+        "titulo": "PERFORACIÓN", 
+        "resumen": "Geonicsa cuenta con un departamento de perforación interno dedicado a la realización de estudios de suelos, brindando servicios a una variedad de clientes en el sector de la construcción. La empresa se ha especializado en perforaciones en roca y suelos, disponiendo del equipamiento adecuado para tales fines. En este aspecto, la firma cuenta con equipos portátiles y máquinas perforadoras rotativas, complementadas con sus respectivos accesorios.",
+        "servicios-titulo": "Dentro de los servicios de perforación que ofrecemos se incluyen:",
+        "servicios-lista": "<ul><li>Perforaciones profundas mediante máquina rotativa y con lodos bentoníticos. </li><li>Perforación por roto-percusión.</li><li>Ensayo de penetración estándar (SPT).</li></ul>"
+    
     },
     "nosotros": {
         "titulo": "SOBRE NOSOTROS",
