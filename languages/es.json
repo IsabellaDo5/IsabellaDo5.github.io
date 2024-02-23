@@ -92,7 +92,42 @@
     },
     "nosotros": {
         "titulo": "SOBRE NOSOTROS",
-        "info-1": "<strong> GEONICSA </strong>, una firma consultora con más de dos décadas de experiencia, se estableció con el compromiso de realizar nuestro trabajo con los estándares de calidad y excelencia que nos han definido desde nuestra fundación hasta la actualidad. <br><br> Nos especializamos en la planificación y ejecución de estudios de suelos de diversas escalas, respaldados por un equipo multidisciplinario que asegura la excelencia en la calidad de nuestro trabajo. <br><br> En GEONICSA, abogamos por la transparencia y sinceridad en todas nuestras interacciones con clientes tanto nacionales como internacionales. Este enfoque nos permite garantizar la claridad necesaria para mantener la calidad en cada uno de nuestros servicios."
+        "info-1": "<strong> GEONICSA </strong>, una firma consultora con más de dos décadas de experiencia, se estableció con el compromiso de realizar nuestro trabajo con los estándares de calidad y excelencia que nos han definido desde nuestra fundación hasta la actualidad. <br><br> Nos especializamos en la planificación y ejecución de estudios de suelos de diversas escalas, respaldados por un equipo multidisciplinario que asegura la excelencia en la calidad de nuestro trabajo. <br><br> En GEONICSA, abogamos por la transparencia y sinceridad en todas nuestras interacciones con clientes tanto nacionales como internacionales. Este enfoque nos permite garantizar la claridad necesaria para mantener la calidad en cada uno de nuestros servicios.",
+        "nombre-fundador": "Nuestro fundador: Msc. Ing. Oscar Osvaldo Jirón Boza",
+        "info-fundador": " En 1972 inició sus estudios de ingeniería civil en la UNAN Managua, su primer trabajo fue en el MOP (Ministerio de Obras Públicas) a partir de enero de 1978. En 1979 laboró durante 9 años en el MICONS (Ministerio de la construcción) hasta finales de 1988, cuando viaja a México a estudiar una maestría de mecánica de suelos en la UNAM. A su retorno a Nicaragua a inicios de 1991 hasta 1993 laboró en CEICOSA y luego en LLANSA. Ese mismo año es llamado a laborar en LAMSA para ocupar el cargo de jefe del departamento de laboratorio y perforación durante 8 años. En 2001 pasó a laborar en MECO - SANTA FE como jefe de control de calidad de proyectos por año y medio.<br><br>En el año 2003, el Ingeniero Oscar Osvaldo Jirón Boza, viendo la necesidad que tenía Nicaragua en el campo de la ingeniería, de desarrollar técnicamente y cuantitativamente la rama de estudios geotécnicos y de materiales de construcción, fundó la empresa GEONIC que ofrece de manera general servicios de geotecnia y control de calidad de suelos y concreto. <br><br>Geotecnia de Nicaragua, (GEONIC) en estos veinte 20 años de existencia ha venido desarrollando estudios para ingeniería vertical (cimientos de edificios, diseño de mejoramiento de suelos de fundación, diseños de hormigón hidráulico, entre otros), para ingeniería horizontal (diseño vial, diseño de estructuras de pavimento, concreto hidráulico, concreto asfáltico, adoquines,geotextil), y estudios de fuentes de materiales y control de calidad de suelos y concreto.",
+        
+        "resumen-proyectos":"<strong>GEONIC</strong>  mantiene relaciones directas con entes privados, instituciones del estado, e intercambios de servicios con firmas consultoras y constructoras nacionales e internacionales, mencionando algunas de ellas y trabajos realizados, a continuación:",
+        "roughton": "<b>ROUGHTON: </b> Estudios geotécnicos de carretera Malpaisillo - Villa 15 de Julio en Costa Rica, incluyendo la instalación de un laboratorio de suelos.",
+        "edico":"<b>EDICO:</b> Estudio geotécnico de la carretera tramo Río Blanco – Mulukuku.",
+        "tec":"<b>TEC:</b> Estudio geotécnico de carretera y puentes del tramo Pantasma - Wiwilí. Estudio geotécnico de la carretera de circunvalación de Masaya.",
+        "eaai":"<b>EAAI:</b> Estudio de suelos para la ampliación en 800 metros de pista del aeropuerto Augusto Cesar Sandino en Managua.",
+        
+        "inabensa":"<b>INABENSA:</b>",
+        "inabensa-1":"Estudio de cimentación del interconectado eléctrico SIEPAC desde Peñas Blancas al Guasaule.",
+        "inabensa-2":"En Guatemala, estudio de cimentación del tramo Chiquimula, Zacapa y Santa Rosa, incluyendo la instalación de un laboratorio de Suelos.",
+
+        "cemex":"<b>CEMEX</b>: Estudio geotécnico de la fábrica de clinker para cemento ubicado en la refinería, Managua.",
+        "alma":"<b>ALMA</b>: Estudio geotécnico y pavimento en numerosas calles y cauces de Managua.",
+        "icc":"<b>ICC</b>: Estudio Geotécnico presa Hidropantasma. Estudio Geotécnico Presa Tumarín.",
+        "alba":"<b>ALBA</b>: Estudio geotécnico de generación de energía eólica planta La Fe, Rivas (22 torres). Estudio geotécnico proyecto planta Los Brasiles.",
+        
+        "conincasa":"<b>CONINCASA:</b>",
+        "conincasa-1":"Estudio geotécnico ampliación del Puerto de Corinto.",
+        "conincasa-2":"Estudio de suelos y pavimento de caminos a las presas Carlos Fonseca y presa Larreynaga.",
+        "conincasa-3":"Estudio geotécnico de la pista del aeropuerto de Corn Island y pista aeropuerto de Bluefields, pista aeropuerto Los Brasiles, pista aeropuerto Punta Huete.",
+        "conincasa-4":"Estudio Geotécnico y Pavimento de calles de rodajes y estacionamientos en el aeropuerto Augusto Cesar Sandino en Managua.",
+        
+        "meco":"<b>MECO:</b>",
+        "meco-1":" Estudio geotécnico puente el Bopal sobre el río grande de Matagalpa.",
+        "meco-2":"Estudio geotécnico puente paso a desnivel La Robelo.",
+        "meco-3":"Estudio geotécnico ampliación del cauce oriental en Managua.",
+        
+        "vacsa":"<b>VACSA:</b>",
+        "vacsa-1":" Estudio geotécnico del CEDIS ubicado en el km 13 carretera vieja a León.",
+        "vacsa-2":"Estudio geotécnico de varias plantas industriales en zona franca Saratoga.",
+        "vacsa-3":"Estudio geotécnico del puesto fronterizo en San Pancho frontera con Costa Rica.",
+        "vacsa-4":" Estudio geotécnico de chequeo de relleno de oficinas centrales de Grupo Q, sobre la pista Jean Paul Genie."
+    
     },
     "proyectos": {
         "titulo": "Nuestros proyectos"

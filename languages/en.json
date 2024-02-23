@@ -88,7 +88,40 @@
     },
     "nosotros":{
         "titulo":"ABOUT US",
-        "info-1": "<strong> Geonicsa </strong>, a consulting firm with more than two decades of experience, was established with the commitment to carry out our work with the quality and excellence standards that have defined us since our foundation to the present day. <br><br> We specialize in planning and executing soil studies of various scales, backed by a multidisciplinary team that ensures excellence in the quality of our work. <br><br> At Geonicsa, we advocate for transparency and honesty in all our interactions with both national and international clients. This approach allows us to guarantee the necessary clarity to maintain quality in each of our services."
+        "info-1": "<strong> Geonicsa </strong>, a consulting firm with more than two decades of experience, was established with the commitment to carry out our work with the quality and excellence standards that have defined us since our foundation to the present day. <br><br> We specialize in planning and executing soil studies of various scales, backed by a multidisciplinary team that ensures excellence in the quality of our work. <br><br> At Geonicsa, we advocate for transparency and honesty in all our interactions with both national and international clients. This approach allows us to guarantee the necessary clarity to maintain quality in each of our services.",
+        "nombre-fundador": "Our Founder: Msc.Ing. Oscar Osvaldo Jirón Boza",
+        "info-fundador": "In 1972, he began his civil engineering studies at UNAN Managua. His first job was at the ministry of public works (MOP) starting in January 1978. In 1979, he worked for 9 years at MICONS (Ministry of Construction) until the end of 1988 when he traveled to Mexico to study a master's degree in soil mechanics at UNAM. Upon his return to Nicaragua in early 1991 until 1993, he worked at CEICOSA and then at LLANSA. That same year, he was called to work at LAMSA to take the position of head of the laboratory and drilling department for 8 years. In 2001, he began working at MECO - SANTA FE as head of project quality control for a year and a half. <br><br>In 2003, Msc. Oscar Osvaldo Jirón Boza, seeing the need that Nicaragua had in the field of engineering, to develop technically and quantitatively the branch of geotechnical and construction material studies and founded the company GEONIC, which generally offers geotechnical services and quality control of soils and concrete. <br><br>Geotecnia de Nicaragua (GEONIC) has been developing studies for vertical engineering (building foundations, foundation soil improvement design, hydraulic concrete designs, among others), for horizontal engineering (road design, pavement structure design, hydraulic concrete, asphalt concrete, paving stones, geotextile), and studies of material sources and quality control of soils and concrete in these twenty 20 years of existence.",
+        "resumen-proyectos":" <strong>GEONIC</strong> maintains direct relationships with private entities, state institutions, and service exchanges with national and international consulting firms and contractors, mentioning some of them and works carried out below:",
+        "roughton": "<b>ROUGHTON:</b> Geotechnical studies of the Malpaisillo - Villa 15 de Julio road in Costa Rica, including the installation of a soil laboratory.",
+        "edico":"<b>EDICO:</b> Geotechnical study of the Río Blanco – Mulukuku road section.",
+        "tec":"<b>TEC:</b> Geotechnical study of the Pantasma - Wiwilí road and bridges section. Geotechnical study of the Masaya beltway road.",
+        "eaai":"<b>EAAI:</b> Soil study for the 800-meter extension at the Augusto Cesar Sandino airport runway in Managua.",
+        
+        "inabensa":"<b>INABENSA:</b> Foundation study of the SIEPAC electrical interconnection from Peñas Blancas to Guasaule. In Guatemala, also a foundation study of the Chiquimula, Zacapa, and Santa Rosa road section, including the installation of a soil laboratory.",
+        "inabensa-1":" Foundation study of the SIEPAC electrical interconnection from Peñas Blancas to Guasaule.",
+        "inabensa-2":"In Guatemala, also a foundation study of the Chiquimula, Zacapa, and Santa Rosa road section, including the installation of a soil laboratory.",
+
+        "cemex":"<b>CEMEX:</b> Geotechnical study of the clinker factory for cement located in the refinery, Managua.",
+        "alma":"<b>ALMA:</b> Geotechnical study and pavement on numerous streets and channels in Managua.",
+        "icc":"<b>ICC:</b> Hydropantasma dam Geotechnical Study and Tumarín Dam Geotechnical Study.",
+        "alba":"<b>ALBA:</b> Geotechnical study of wind power generation La Fe plant, Rivas (22 towers). Geotechnical study of Los Brasiles airport project.",
+        
+        "conincasa":"<b>CONINCASA: </b>",
+        "conincasa-1":"Geotechnical study for Corinto Port expansion.",
+        "conincasa-2":"Soil and pavement study for roads to the Carlos Fonseca and Larreynaga dams.",
+        "conincasa-3":"Geotechnical study of the Corn Island airport runway and Bluefields airport runway, Los Brasiles airport runway, Punta Huete airport runway.",
+        "conincasa-4":"Geotechnical and pavement study of taxiways and parking lots at Augusto Cesar Sandino airport in Managua.",
+        
+        "meco":"<b>MECO:</b>",
+        "meco-1":" Geotechnical study of Bopal bridge over the rio grande in Matagalpa. ",
+        "meco-2":"Geotechnical study of La Robelo underpass bridge.",
+        "meco-3":"Geotechnical study of the eastern channel expansion in Managua.",
+        
+        "vacsa":"<b>VACSA:</b>",
+        "vacsa-1":"Geotechnical study of CEDIS located at km 13 old road to León. ",
+        "vacsa-2":"Geotechnical study of various industrial plants in the Saratoga free zone.",
+        "vacsa-3":"Geotechnical study in San Pancho at the border with Costa Rica.",
+        "vacsa-4":"Soil study of Grupo Q central office on Jean Paul Genie track."
     },
     "proyectos":{
         "titulo": "OUR PROJECTS"
