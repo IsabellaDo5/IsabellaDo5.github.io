@@ -58,6 +58,8 @@
     
     },
     "control-calidad-concreto":{
+        "titulo":"Control de calidad del concreto",
+
         "resumen":"El control de calidad del concreto lo realizamos mediante las siguientes pruebas específicas:",
         "cilindros-concreto":"Cilindros de Concreto",
         "cilindros-concreto-desc":"Los cilindros de concreto nos permiten realizar pruebas de resistencia a la compresión.<br> <br> <b>Procedimiento:</b> <br>Se moldean cilindros de concreto en el sitio o en el laboratorio y luego se someten a pruebas de resistencia a la compresión para evaluar la capacidad del concreto para soportar cargas de compresión.",
@@ -78,9 +80,9 @@
     },
     "control-calidad-suelos": {
         "titulo": "CONTROL DE CALIDAD DE SUELOS",
-        "resumen": "El control de calidad de los suelos mediante pruebas de compactación, utilizando métodos como el cono de arena y el densímetro nuclear, es esencial en la ingeniería civil y la construcción para evaluar la capacidad de soporte y la densidad de los suelos. A continuación, se describen brevemente ambos métodos:",
+        "resumen": "El control de calidad de los suelos lo realizamos mediante pruebas de compactación, utilizando métodos como el cono de arena y el densímetro nuclear, estos procedimientos son esenciales en la ingeniería civil y en la construcción para evaluar la capacidad de soporte y la densidad de los suelos. <br><br>A continuación, se describen brevemente ambos métodos:",
         "metodo-1-titulo": "Prueba de Compactación con Cono de Arena",
-        "metodo-1-desc": "<p> Se realiza con el propósito de evaluar la densidad máxima y la humedad óptima de un suelo compactado. </p> <b>Procedimiento:</b> <br><ol><li>Se extrae una muestra representativa del suelo.</li> <li>Se mide la humedad inicial de la muestra. </li><li>Se coloca una capa del suelo en el molde de compactación y se compacta utilizando el cono de arena.</li> <li>Se mide la densidad seca y la humedad después de la compactación.</li> <li>Se repite el proceso con diferentes contenidos de humedad para determinar la curva de compactación.</li></ol><p><b>Resultado:</b> Se obtienen datos que permiten identificar la humedad óptima y la densidad máxima del suelo compactado. </p>",
+        "metodo-1-desc": "<p> Se realiza con el propósito de evaluar la densidad máxima y la humedad óptima de un suelo compactado. </p> <b>Procedimiento:</b> <br><ol><li>Se extrae una muestra representativa del suelo.</li> <li>Se mide la humedad inicial de la muestra. </li><li>Se coloca una capa del suelo en el molde de compactación y se compacta utilizando el cono de arena.</li> <li>Medimos la densidad seca y la humedad después de la compactación.</li> <li>Se repite el proceso con diferentes contenidos de humedad para determinar la curva de compactación.</li></ol><p><b>Resultado:</b> Se obtienen datos que permiten identificar la humedad óptima y la densidad máxima del suelo compactado. </p>",
         "metodo-2-titulo": "Prueba de Compactación con Densímetro Nuclear",
         "metodo-2-desc": "<p>  Medir la densidad in situ de un suelo y proporcionar información sobre la calidad de la compactación. </p><b>Procedimiento:</b> <br><ol><li>Se coloca el densímetro nuclear sobre la superficie del suelo compactado.</li><li>Se emite una fuente de radiación gamma hacia el suelo.</li><li>El densímetro mide la radiación dispersa, que está relacionada con la densidad del suelo.</li> <li>Se repite el proceso en varios puntos para obtener datos representativos. </li></ol><p><b>Resultado:</b>  Se obtienen lecturas directas de la densidad del suelo sin necesidad de extraer muestras.</p>"
     },

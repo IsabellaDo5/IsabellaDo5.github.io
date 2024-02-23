@@ -55,6 +55,8 @@
         "producto-2":"Soil Quality Control"
     },
     "control-calidad-concreto":{
+        "titulo":"Concrete quality control",
+
         "resumen":"Concrete Quality Control is conducted through the following specific tests:",
         "cilindros-concreto":"",
         "cilindros-concreto-desc":" Concrete cylinders allow us to perform compression strength tests.<br><br> <b> Procedure:</b><br> Concrete cylinders are molded on-site or in the laboratory and then subjected to compression strength tests to evaluate the concrete's capacity to withstand compression loads.",
@@ -76,9 +78,9 @@
     },
     "control-calidad-suelos":{
         "titulo":"SOIL QUALITY CONTROL",
-        "resumen": "Soil quality control through compaction tests, using methods such as the sand cone and nuclear densometer, is essential in civil engineering and construction to assess the bearing capacity and density of soils. Below are brief descriptions of both methods:",
+        "resumen": "Soil quality control is conducted through compaction tests using methods such as the sand cone and nuclear density gauge. These procedures are essential in civil engineering and construction to evaluate the soil's bearing capacity and density.<br><br>Below are brief descriptions of both methods:",
         "metodo-1-titulo": "Sand Cone Compaction Test",
-        "metodo-1-desc":"<p> Evaluate the maximum density and optimal moisture of compacted soil.</p><b> Procedure: </b> <ol> <li>A representative soil sample is extracted. </li> <li> The initial moisture of the sample is measured. </li> <li> A layer of soil is placed in the compaction mold and compacted using the sand cone. </li> <li> The dry density and moisture after compaction are measured.</li> <li> The process is repeated with different moisture contents to determine the compaction curve.</li> </ol> <p> <b> Result </b>: Data is obtained to identify the optimal moisture and maximum density of compacted soil. </p>",
+        "metodo-1-desc":"<p> To evaluate the maximum density and optimal moisture of compacted soil.</p><b> Procedure: </b> <ol> <li>We extract a representative soil sample.</li> <li> The initial moisture of the sample is measured. </li> <li> Place a layer of soil in the compaction mold and compact it using the sand cone.</li> <li> Measure the dry density and moisture content after compaction.</li> <li> The process is repeated with different moisture contents to determine the compaction curve.</li> </ol> <p> <b> Result </b>: Data is obtained to identify the optimal moisture and maximum density of compacted soil. </p>",
         "metodo-2-titulo": "Nuclear Densometer Compaction Test",
         "metodo-2-desc": "<p> Measure the in-situ density of soil and provide information on the quality of compaction.</p> <b>Procedure: </b><ol><li>The nuclear densometer is placed on the surface of the compacted soil.</li><li>A gamma radiation source is emitted towards the soil.</li><li>The densometer measures the scattered radiation, which is related to the soil density.</li><li>The process is repeated at various points to obtain representative data.</li></ol> <p> <b>Result:</b> Direct readings of soil density are obtained without the need for sample extraction.</p>"  
     },
