@@ -86,7 +86,7 @@
     },
     "laboratorio-suelos":{
         "titulo":"SOIL LABORATORY",
-        "resumen": "We work according to the construction specifications in Nicaragua, conducting comprehensive soil and material quality control tests. We strictly apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.<br> <br> A soil laboratory is a specialized facility where detailed tests and analyses are conducted to evaluate the physical and mechanical properties of soils. These laboratories play a fundamental role in civil engineering, geotechnics, construction, and related disciplines, as they provide essential information for the design and construction of safe and efficient structures. Here are some of the common functions and activities carried out in a soil laboratory:",
+        "resumen": "We work according to the construction specifications in Nicaragua's industry. Geonicsa performs comprehensive quality control tests on soils and materials. We rigorously apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.",
         "actividad-1-titulo": "Sample Preparation",
         "actividad-1-desc":"Soil laboratories receive soil samples taken from specific sites, either during subsurface exploration or as part of construction projects. The preparation of these samples is a critical initial phase.",
         
@@ -106,7 +106,7 @@
     },
     "perforacion":{
         "titulo": "DRILLING", 
-        "resumen": "Geonicsa has an in-house drilling department dedicated to conducting soil studies, providing services to a variety of clients in the construction sector. The company specializes in rock and soil drilling, equipped with the appropriate equipment for such purposes. In this aspect, the firm has portable equipment and rotary drilling machines, complemented with their respective accessories.",
+        "resumen": "Geonicsa has a dedicated drilling department for soil studies. We specialize in rock and soil drilling, equipped with portable equipment and rotary drilling machines complemented by their respective accessories.",
         "servicios-titulo": "The drilling services we offer include:",
         "servicios-lista": "<ul> <li> Deep drilling using rotary machines and bentonite muds.</li><li> Percussion drilling. </li> <li>Standard penetration test (SPT).</li> </ul>"
     },

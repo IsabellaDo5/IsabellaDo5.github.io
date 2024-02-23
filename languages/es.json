@@ -88,7 +88,7 @@
     },
     "laboratorio-suelos": {
         "titulo": "LABORATORIO DE SUELOS",
-        "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo.<br> <br> Un laboratorio de suelos es una instalación especializada en la que se llevan a cabo pruebas y análisis detallados para evaluar las propiedades físicas y mecánicas de los suelos. Estos laboratorios desempeñan un papel fundamental en la ingeniería civil, geotécnica, construcción y otras disciplinas relacionadas, ya que proporcionan información esencial para el diseño y la construcción de estructuras seguras y eficientes. Aquí se describen algunas de las funciones actividades comunes realizadas en un laboratorio de suelos:",
+        "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo. ",
         "actividad-1-titulo": "Preparación de muestras",
         "actividad-1-desc":"Los laboratorios de suelos reciben muestras de suelos tomadas de sitios específicos, ya sea durante la exploración del subsuelo o como parte de proyectos de construcción. La preparación de estas muestras es una fase inicial crítica.",
         
@@ -110,7 +110,7 @@
     },
     "perforacion": {
         "titulo": "PERFORACIÓN", 
-        "resumen": "Geonicsa cuenta con un departamento de perforación interno dedicado a la realización de estudios de suelos, brindando servicios a una variedad de clientes en el sector de la construcción. La empresa se ha especializado en perforaciones en roca y suelos, disponiendo del equipamiento adecuado para tales fines. En este aspecto, la firma cuenta con equipos portátiles y máquinas perforadoras rotativas, complementadas con sus respectivos accesorios.",
+        "resumen": "Geonicsa cuenta con un departamento de perforación dedicado a la realización de estudios de suelos. Nos especializamos en perforaciones en roca y suelos, contamos con equipos portátiles y maquinas perforadoras rotativas complementadas con sus respectivos accesorios.",
         "servicios-titulo": "Dentro de los servicios de perforación que ofrecemos se incluyen:",
         "servicios-lista": "<ul><li>Perforaciones profundas mediante máquina rotativa y con lodos bentoníticos. </li><li>Perforación por roto-percusión.</li><li>Ensayo de penetración estándar (SPT).</li></ul>"
     
