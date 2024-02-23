@@ -49,12 +49,32 @@
         "pruebas-infiltracion": "Pruebas de infiltración",
         "pruebas-infiltracion-desc":"Las pruebas de infiltración nos permiten determinar la capacidad del suelo para manejar el agua, lo que puede ser fundamental en la planificación de proyectos de construcción, manejo de aguas pluviales y diseño de sistemas de drenaje. La información obtenida a partir de estas pruebas nos ayuda a realizar recomendaciones optimas sobre la gestión de recursos hídricos y la prevención de problemas como la erosión y las inundaciones."    
     },
+
     "control-materiales": {
         "titulo": "CONTROL DE CALIDAD DE MATERIALES",
-        "resumen": "En Geonicsa, nuestro compromiso con la calidad va más allá de la geotecnia. Ofrecemos servicios especializados en el control de calidad de materiales, asegurando que cada componente utilizado en su proyecto cumpla con los más altos estándares. Desde la selección meticulosa de materiales hasta la supervisión en el sitio, nuestro equipo dedicado se asegura de que cada elemento contribuya a la excelencia y durabilidad de su proyecto.",
+        "resumen": "En Geonicsa, nuestro compromiso con la calidad va más allá de la geotecnia. Ofrecemos servicios especializados en el control de calidad de materiales, asegurando que cada componente utilizado en su proyecto cumpla con los más altos estándares. Desde la selección meticulosa del banco de materiales hasta la supervisión en el sitio, nuestro equipo se asegura de que cada elemento contribuya a la excelencia y durabilidad de su proyecto.",
         "producto-1":"Control de calidad del concreto",
         "producto-2":"Control de calidad de los suelos"
     
+    },
+    "control-calidad-concreto":{
+        "resumen":"El control de calidad del concreto lo realizamos mediante las siguientes pruebas específicas:",
+        "cilindros-concreto":"Cilindros de Concreto",
+        "cilindros-concreto-desc":"Los cilindros de concreto nos permiten realizar pruebas de resistencia a la compresión.<br> <br> <b>Procedimiento:</b> <br>Se moldean cilindros de concreto en el sitio o en el laboratorio y luego se someten a pruebas de resistencia a la compresión para evaluar la capacidad del concreto para soportar cargas de compresión.",
+        
+        "viguetas-concreto":"Viguetas de Concreto",
+        "viguetas-concreto-desc":"Las viguetas se utilizan para evaluar la resistencia a flexión y otras propiedades del concreto. <br><br> <b>Procedimiento:</b> <br>Las viguetas se moldean y se someten a pruebas para medir su capacidad para resistir cargas flexionales y evaluar la calidad y durabilidad del concreto.",
+        
+        "cubos-concreto":"",
+        "cubos-concreto-desc":"Los cubos los usamos para realizar pruebas de resistencia a la compresión, similares a los cilindros. <br> <br><b>Procedimiento:</b> <br>Se moldean cubos de concreto y se someten a pruebas de resistencia a la compresión para evaluar la calidad del concreto.",
+        
+        "martillo-suizo":"",
+        "martillo-suizo-desc":" El martillo suizo, o esclerómetro, se utiliza para medir la dureza superficial del concreto.<br><br><b>Procedimiento:</b><br> El martillo suizo se golpea contra la superficie del concreto, y la energía del rebote se mide para estimar la dureza superficial. Se utiliza para evaluar la calidad del concreto y detectar posibles problemas como la carbonatación.",
+        
+        "extraccion-nucleos":"Extracción de núcleos",
+        "extraccion-nucleos-desc":"La extracción de núcleos la utilizamos para obtener muestras del concreto en estructuras existentes y evaluar su resistencia y condiciones internas.<br><br><b>Procedimiento: </b>Se perfora un núcleo del concreto utilizando una herramienta especial, y la muestra resultante se utiliza para realizar pruebas de resistencia a la compresión y analizar la calidad y condiciones internas del concreto.",
+
+        "resumen-final":"Estas técnicas son parte integral del control de calidad del concreto y se seleccionan según los aspectos específicos que se desean evaluar en un proyecto. Las pruebas proporcionan información valiosa para garantizar que el concreto cumpla con los estándares requeridos y para prevenir posibles problemas a lo largo del tiempo."
     },
     "control-calidad-suelos": {
         "titulo": "CONTROL DE CALIDAD DE SUELOS",

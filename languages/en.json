@@ -50,9 +50,29 @@
     },
     "control-materiales":{
         "titulo": "MATERIAL QUALITY CONTROL",
-        "resumen": "At Geonicsa, our commitment to quality goes beyond geotechnics. We offer specialized services in material quality control, ensuring that every component used in your project meets the highest standards. From meticulous material selection to on-site supervision, our dedicated team ensures that each element contributes to the excellence and durability of your project.",
-        "producto-1":"Concrete quality control",
+        "resumen": "At Geonicsa, our commitment to quality goes beyond geotechnics. We offer specialized services in material quality control, ensuring that every component used in your project meets the highest standards. From meticulous selection of material sources to on-site supervision, our team ensures that each element contributes to the excellence and durability of your project.",
+        "producto-1":"Concrete Quality Control",
         "producto-2":"Soil Quality Control"
+    },
+    "control-calidad-concreto":{
+        "resumen":"Concrete Quality Control is conducted through the following specific tests:",
+        "cilindros-concreto":"",
+        "cilindros-concreto-desc":" Concrete cylinders allow us to perform compression strength tests.<br><br> <b> Procedure:</b><br> Concrete cylinders are molded on-site or in the laboratory and then subjected to compression strength tests to evaluate the concrete's capacity to withstand compression loads.",
+        
+        "viguetas-concreto":"Concrete Beams",
+        "viguetas-concreto-desc":"Beams are used to evaluate flexural strength and other properties of concrete.<br><br> <b> Procedure:</b><br> Beams are molded and subjected to tests to measure their ability to withstand flexural loads and evaluate the quality and durability of concrete.",
+        
+        "cubos-concreto":" Concrete Cubes",
+        "cubos-concreto-desc":"Cubes are used for compression strength tests, similar to cylinders.<br><br><b>Procedure:</b><br> Concrete cubes are molded and subjected to compression strength tests to evaluate the quality of concrete.",
+        
+        "martillo-suizo":" Swiss Hammer (Schmidt Hammer)",
+        "martillo-suizo-desc":"The Swiss hammer, or Schmidt hammer, is used to measure the surface hardness of concrete.<br><br><b>Procedure:</b><br> The Swiss hammer is struck against the concrete surface, and the rebound energy is measured to estimate surface hardness. It is used to evaluate concrete quality and detect potential issues like carbonation.",
+        
+        "extraccion-nucleos":"Core Extraction",
+        "extraccion-nucleos-desc":"Core extraction is used to obtain samples of concrete in existing structures and assess their strength and internal conditions. <br><br><b>Procedure:</b><br> A core of concrete is drilled using a special tool, and the resulting sample is used to perform compression strength tests and analyze the quality and internal conditions of concrete.",
+
+        "resumen-final":"These techniques are integral to measure concrete quality control and are selected based on the specific aspects to be evaluated in a project. The tests provide valuable information to ensure that concrete meets the required standards and to prevent potential issues over time"
+
     },
     "control-calidad-suelos":{
         "titulo":"SOIL QUALITY CONTROL",
