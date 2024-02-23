@@ -65,10 +65,10 @@
         "viguetas-concreto":"Viguetas de Concreto",
         "viguetas-concreto-desc":"Las viguetas se utilizan para evaluar la resistencia a flexión y otras propiedades del concreto. <br><br> <b>Procedimiento:</b> <br>Las viguetas se moldean y se someten a pruebas para medir su capacidad para resistir cargas flexionales y evaluar la calidad y durabilidad del concreto.",
         
-        "cubos-concreto":"",
+        "cubos-concreto":"Cubos de Concreto",
         "cubos-concreto-desc":"Los cubos los usamos para realizar pruebas de resistencia a la compresión, similares a los cilindros. <br> <br><b>Procedimiento:</b> <br>Se moldean cubos de concreto y se someten a pruebas de resistencia a la compresión para evaluar la calidad del concreto.",
         
-        "martillo-suizo":"",
+        "martillo-suizo":"Martillo Suizo (Esclerómetro)",
         "martillo-suizo-desc":" El martillo suizo, o esclerómetro, se utiliza para medir la dureza superficial del concreto.<br><br><b>Procedimiento:</b><br> El martillo suizo se golpea contra la superficie del concreto, y la energía del rebote se mide para estimar la dureza superficial. Se utiliza para evaluar la calidad del concreto y detectar posibles problemas como la carbonatación.",
         
         "extraccion-nucleos":"Extracción de núcleos",
