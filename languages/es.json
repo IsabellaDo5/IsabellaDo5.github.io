@@ -38,13 +38,16 @@
     },
     "estudios-geotecnicos": {
         "titulo": "ESTUDIOS GEOTÉCNICOS",
-        "info-1":"En Geonicsa, nos destacamos como líderes en el campo de la geotecnia, ofreciendo soluciones especializadas para proyectos de construcción y desarrollo. Nuestra experiencia en estudios de suelos y evaluación geotécnica nos distingue como el socio confiable para comprender a fondo la estabilidad del terreno. Desde la clasificación detallada de suelos hasta la evaluación precisa de la capacidad portante, en Geonicsa nos comprometemos a proporcionar datos cruciales para tomar decisiones informadas y mitigar riesgos.",
+        "info-1":"En Geonicsa, nos destacamos ofreciendo soluciones especializadas para proyectos de construcción y desarrollo. Nuestra experiencia en estudios de suelos y evaluación geotécnica nos distingue como el socio confiable para comprender a fondo la estabilidad del terreno. Desde la clasificación detallada de suelos hasta la evaluación precisa de la capacidad portante, en Geonicsa nos comprometemos a proporcionar datos cruciales para tomar decisiones informadas que les faciliten a nuestros clientes la mitigación de riesgos.",
+        
         "estudios-cimentacion": "Estudios Geotécnicos de cimentación",
-        "estudios-cimentacion-desc": "Los estudios geotécnicos de cimentación son evaluaciones especializadas que se llevan a cabo para comprender las características geológicas y geotécnicas del suelo en un sitio específico, con el objetivo de diseñar cimientos seguros y eficientes para estructuras de construcción. Estos estudios son esenciales para garantizar la estabilidad y la seguridad a largo plazo de cualquier edificación.",
+        "estudios-cimentacion-desc": "Los estudios geotécnicos de cimentación son evaluaciones especializadas que utilizamos para comprender las características geológicas y geotécnicas del suelo en un sitio específico, con el objetivo de ayudarnos a diseñar cimientos seguros y eficientes para estructuras de construcción. Estos estudios son esenciales para garantizar la estabilidad y la seguridad a largo plazo de cualquier edificación.",
+        
         "disenio-espesores-pav": "Diseño de espesores de pavimento",
-        "disenio-espesores-pav-desc": "El diseño de espesores de pavimento es un proceso ingenieril que implica determinar las dimensiones adecuadas y el tipo de capas que componen un pavimento para garantizar su resistencia y durabilidad. Este diseño se realiza con el objetivo de soportar las cargas de tráfico, resistir las condiciones climáticas y proporcionar un servicio funcional y seguro a lo largo de su vida útil.",
+        "disenio-espesores-pav-desc": "El diseño de espesores de pavimento es un proceso ingenieril que nos ayuda a determinar las dimensiones adecuadas y el tipo de capas que componen un pavimento para garantizar su resistencia y durabilidad. Este diseño se realiza con el objetivo de soportar las cargas de tráfico, resistir las condiciones climáticas y proporcionar un servicio funcional y seguro a lo largo de su vida útil.",
+        
         "pruebas-infiltracion": "Pruebas de infiltración",
-        "pruebas-infiltracion-desc":"Las pruebas de infiltración son procedimientos utilizados para evaluar la capacidad de un suelo para absorber agua y permitir su paso hacia las capas subyacentes. Estas pruebas son esenciales en el campo de la hidrogeología y la ingeniería geotécnica para comprender la permeabilidad del suelo, lo cual es crucial en el diseño de estructuras, gestión de recursos hídricos y evaluación del potencial de inundaciones."    
+        "pruebas-infiltracion-desc":"Las pruebas de infiltración nos permiten determinar la capacidad del suelo para manejar el agua, lo que puede ser fundamental en la planificación de proyectos de construcción, manejo de aguas pluviales y diseño de sistemas de drenaje. La información obtenida a partir de estas pruebas nos ayuda a realizar recomendaciones optimas sobre la gestión de recursos hídricos y la prevención de problemas como la erosión y las inundaciones."    
     },
     "control-materiales": {
         "titulo": "CONTROL DE CALIDAD DE MATERIALES",

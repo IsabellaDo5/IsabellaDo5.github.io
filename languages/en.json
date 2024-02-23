@@ -38,13 +38,15 @@
     },
     "estudios-geotecnicos":{
         "titulo": "GEOTECHNICAL STUDIES",
-        "info-1": "At Geonicsa, we excel as leaders in the field of geotechnics, offering specialized solutions for construction and development projects. Our expertise in soil studies and geotechnical evaluation distinguishes us as the reliable partner to thoroughly understand ground stability. From detailed soil classification to precise bearing capacity evaluation, at Geonicsa, we commit to providing crucial data to make informed decisions and mitigate risks.",
+        "info-1": "At Geonicsa, we excel in offering specialized solutions for construction and development projects. Our experience in soil studies and geotechnical evaluation distinguishes us as the reliable partner to thoroughly understand ground stability. From detailed soil classification to precise bearing capacity assessment, at Geonicsa, we are committed to providing crucial data for making informed decisions that facilitate risk mitigation for our clients.",
         "estudios-cimentacion": "Foundation Geotechnical Studies",
-        "estudios-cimentacion-desc": "Foundation geotechnical studies are specialized assessments conducted to understand the geological and geotechnical characteristics of the soil at a specific site, aiming to design safe and efficient foundations for construction structures. These studies are essential to ensure the long-term stability and safety of any building.",
+        "estudios-cimentacion-desc": "Foundation geotechnical studies are specialized assessments we use to understand the geological and geotechnical characteristics of soil at a specific site, aiming to help us design safe and efficient foundations for construction structures. These studies are essential to ensure the long-term stability and safety of any building.",
+        
         "disenio-espesores-pav": "Pavement Thickness Design",
-        "disenio-espesores-pav-desc": "Pavement thickness design is an engineering process involving determining the appropriate dimensions and type of layers composing a pavement to ensure its strength and durability. This design is carried out to support traffic loads, resist weather conditions, and provide functional and safe service throughout its lifespan.",
+        "disenio-espesores-pav-desc": "Pavement thickness design is an engineering process that helps us determine the appropriate dimensions and layer types composing a pavement to ensure its strength and durability. This design is carried out to support traffic loads, resist weather conditions, and provide functional and safe service throughout its lifespan.",
+        
         "pruebas-infiltracion": "Infiltration Tests",
-        "pruebas-infiltracion-desc": "Infiltration tests are procedures used to assess a soil's ability to absorb water and allow it to pass through to underlying layers. These tests are essential in the fields of hydrogeology and geotechnical engineering to understand soil permeability, which is crucial in the design of structures, water resource management, and flood potential evaluation."    
+        "pruebas-infiltracion-desc": "Infiltration tests allow us to determine the soil's capacity to handle water, which can be crucial in planning construction projects, stormwater management, and drainage system design. The information obtained from these tests helps us make optimal recommendations on water resource management and prevention of issues like erosion and flooding."    
     },
     "control-materiales":{
         "titulo": "MATERIAL QUALITY CONTROL",
