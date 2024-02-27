@@ -83,29 +83,42 @@
         "resumen": "El control de calidad de los suelos lo realizamos mediante pruebas de compactación, utilizando métodos como el cono de arena y el densímetro nuclear, estos procedimientos son esenciales en la ingeniería civil y en la construcción para evaluar la capacidad de soporte y la densidad de los suelos. <br><br>A continuación, se describen brevemente ambos métodos:",
         "metodo-1-titulo": "Prueba de Compactación con Cono de Arena",
         "metodo-1-desc": "<p> Se realiza con el propósito de evaluar la densidad máxima y la humedad óptima de un suelo compactado. </p> <b>Procedimiento:</b> <br><ol><li>Se extrae una muestra representativa del suelo.</li> <li>Se mide la humedad inicial de la muestra. </li><li>Se coloca una capa del suelo en el molde de compactación y se compacta utilizando el cono de arena.</li> <li>Medimos la densidad seca y la humedad después de la compactación.</li> <li>Se repite el proceso con diferentes contenidos de humedad para determinar la curva de compactación.</li></ol><p><b>Resultado:</b> Se obtienen datos que permiten identificar la humedad óptima y la densidad máxima del suelo compactado. </p>",
+        
         "metodo-2-titulo": "Prueba de Compactación con Densímetro Nuclear",
-        "metodo-2-desc": "<p>  Medir la densidad in situ de un suelo y proporcionar información sobre la calidad de la compactación. </p><b>Procedimiento:</b> <br><ol><li>Se coloca el densímetro nuclear sobre la superficie del suelo compactado.</li><li>Se emite una fuente de radiación gamma hacia el suelo.</li><li>El densímetro mide la radiación dispersa, que está relacionada con la densidad del suelo.</li> <li>Se repite el proceso en varios puntos para obtener datos representativos. </li></ol><p><b>Resultado:</b>  Se obtienen lecturas directas de la densidad del suelo sin necesidad de extraer muestras.</p>"
+        "metodo-2-resumen": "Medir la densidad in situ de un suelo y proporcionar información sobre la calidad de la compactación.",
+        "metodo-2-procedimiento":"<b>Procedimiento:</b><ol><li>Colocamos el densímetro nuclear sobre la superficie del suelo compactado.</li> <li>Este emite una fuente de radiación gamma hacia el suelo, midiendo la radiación dispersa, que está relacionada con la densidad del suelo.</li><li>Se repite el proceso en varios puntos para obtener datos representativos del area.</li></ol>",
+        "metodo-2-resultado":"<b>Resultado:</b>  Se obtienen lecturas directas de la densidad del suelo sin necesidad de extraer muestras.",
+    
+        "pie-pagina":"Estas pruebas son fundamentales para garantizar que el suelo tenga la densidad adecuada y cumpla con los requisitos de capacidad de soporte para proyectos de construcción. La información recopilada ayuda a ajustar el contenido de humedad durante la compactación para lograr la máxima densidad y eficiencia. El uso conjunto de estos métodos proporciona una evaluación integral de la calidad de la compactación del suelo."
     },
     "laboratorio-suelos": {
         "titulo": "LABORATORIO DE SUELOS",
         "resumen": "Trabajamos conforme a las especificaciones de obra de la industria de la construcción en Nicaragua, Geonicsa realiza exhaustivas pruebas de control de calidad de suelos y materiales. Aplicamos rigurosamente las normativas nacionales NIC-2000, así como los estándares internacionales ASTM y AASHTO, acumulando una extensa experiencia en esta área. Contamos con un equipo completo de control de calidad y poseemos la capacidad de establecer laboratorios de campo. ",
         "actividad-1-titulo": "Preparación de muestras",
-        "actividad-1-desc":"Los laboratorios de suelos reciben muestras de suelos tomadas de sitios específicos, ya sea durante la exploración del subsuelo o como parte de proyectos de construcción. La preparación de estas muestras es una fase inicial crítica.",
+        "actividad-1-desc":"Los laboratorios de suelos reciben muestras de suelos tomadas de sitios específicos, ya sea durante la exploración del subsuelo o como parte de proyectos de construcción.  El estudio de estas muestras es la fase inicial crítica de todo estudio.",
         
         "actividad-2-titulo": "Análisis de Granulometría",
-        "actividad-2-desc":"Se determina la distribución de tamaños de partículas en una muestra de suelo. Esto es esencial para clasificar el suelo según sistemas de clasificación como el sistema de clasificación de suelos unificado (USCS).",
+        "actividad-2-desc":"Con esta prueba determinamos la distribución de tamaños de partículas en una muestra de suelo. Esto es esencial para clasificar el suelo según el sistema de clasificación de suelos unificado (USCS).",
         
         "actividad-3-titulo": "Límites de Atterberg",
-        "actividad-3-desc":"Se realizan pruebas para determinar los límites de plasticidad y límites de liquidez del suelo. Estos límites son importantes para comprender el comportamiento del suelo bajo diferentes condiciones de humedad.",
+        "actividad-3-desc":"Conducimos esta prueba para determinar los límites de plasticidad y límites de liquidez del suelo. Estos límites son importantes para comprender el comportamiento del suelo bajo diferentes condiciones de humedad.",
         
         "actividad-4-titulo": "Pruebas de Compactación",
-        "actividad-4-desc":"Se llevan a cabo pruebas de compactación para evaluar la densidad máxima y la humedad óptima del suelo bajo condiciones específicas de compactación. Esto es esencial para el diseño de terraplenes y cimentaciones.",
+        "actividad-4-desc":"Llevamos a cabo pruebas de compactación para evaluar la densidad máxima y la humedad óptima del suelo bajo condiciones específicas de compactación. Esto es esencial para el diseño de terraplenes y cimentaciones.",
         
         "actividad-5-titulo": "Pruebas de Corte Directo y Triaxiales",
-        "actividad-5-desc":"Se realizan pruebas para evaluar la resistencia al corte del suelo en diferentes condiciones de esfuerzo. Esto es crucial para el diseño de estructuras de retención, muros de contención y otros elementos geotécnicos.",
+        "actividad-5-desc":"Realizamos estas pruebas para evaluar la resistencia al corte del suelo en diferentes condiciones de esfuerzo. Esto es crucial para el diseño de estructuras de retención, muros de contención y otros elementos geotécnicos.",
         
         "actividad-6-titulo": "Pruebas de consolidación",
-        "actividad-6-desc":""
+        "actividad-6-desc":"Efectuamos pruebas de consolidación para evaluar la compresibilidad y la capacidad de asentamiento del suelo. Esto es vital para proyectos en los que se espera un asentamiento significativo.",
+
+        "actividad-7-titulo":"Densidad del suelo in situ",
+        "actividad-7-desc":"Se utilizan dispositivos como el densímetro nuclear para medir la densidad del suelo in situ. Esta prueba nos proporciona información sobre la compactación del suelo durante la construcción.",
+
+        "test-especiales-titulo":"Ensayos Especiales",
+        "tests-especiales-resumen":"Dependiendo de la naturaleza del proyecto, llevamos a cabo ensayos especiales para abordar características particulares del suelo, tales como pruebas de permeabilidad, pruebas de expansión, entre otras detalladas a continuación:",
+        "test-especiales-pt1":"Proctor modificado.<br>Proctor estándar.<br>Ensayo de CBR.<br> Equivalente de arena.<br>Compresión simple, densidad y humedad.<br>Corte directo.<br>Peso específico y absorción, agregado grueso.<br>Peso específico y absorción, agregado fino.<br>",
+        "test-especiales-pt2":"Porcentajes de vacíos en los agregados.<br>Abrasión en la máquina de los Ángeles.<br>Diseño de morteros.<br> Diseño de mezclas de concreto.<br> Extracción núcleos de concreto y asfalto con extractor de broca de diamante.<br>Densidad y absorción del concreto endurecido.<br>Resistencia a la compresión de bloques y adoquines."
 
     },
     "perforacion": {

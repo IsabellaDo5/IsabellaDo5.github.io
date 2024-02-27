@@ -58,7 +58,7 @@
         "titulo":"Concrete quality control",
 
         "resumen":"Concrete Quality Control is conducted through the following specific tests:",
-        "cilindros-concreto":"",
+        "cilindros-concreto":"Concrete Cylinders",
         "cilindros-concreto-desc":" Concrete cylinders allow us to perform compression strength tests.<br><br> <b> Procedure:</b><br> Concrete cylinders are molded on-site or in the laboratory and then subjected to compression strength tests to evaluate the concrete's capacity to withstand compression loads.",
         
         "viguetas-concreto":"Concrete Beams",
@@ -81,28 +81,45 @@
         "resumen": "Soil quality control is conducted through compaction tests using methods such as the sand cone and nuclear density gauge. These procedures are essential in civil engineering and construction to evaluate the soil's bearing capacity and density.<br><br>Below are brief descriptions of both methods:",
         "metodo-1-titulo": "Sand Cone Compaction Test",
         "metodo-1-desc":"<p> To evaluate the maximum density and optimal moisture of compacted soil.</p><b> Procedure: </b> <ol> <li>We extract a representative soil sample.</li> <li> The initial moisture of the sample is measured. </li> <li> Place a layer of soil in the compaction mold and compact it using the sand cone.</li> <li> Measure the dry density and moisture content after compaction.</li> <li> The process is repeated with different moisture contents to determine the compaction curve.</li> </ol> <p> <b> Result </b>: Data is obtained to identify the optimal moisture and maximum density of compacted soil. </p>",
+        
         "metodo-2-titulo": "Nuclear Densometer Compaction Test",
-        "metodo-2-desc": "<p> Measure the in-situ density of soil and provide information on the quality of compaction.</p> <b>Procedure: </b><ol><li>The nuclear densometer is placed on the surface of the compacted soil.</li><li>A gamma radiation source is emitted towards the soil.</li><li>The densometer measures the scattered radiation, which is related to the soil density.</li><li>The process is repeated at various points to obtain representative data.</li></ol> <p> <b>Result:</b> Direct readings of soil density are obtained without the need for sample extraction.</p>"  
+        "metodo-2-resumen": "<p> Measure the in-situ density of soil and provide information on the quality of compaction.</p>  <b>Result:</b> Direct readings of soil density are obtained without the need for sample extraction.</p>",
+        "metodo-2-procedimiento":"<b>Procedure:</b><ol><li>We place the nuclear density gauge on the surface of the compacted soil.</li><li>It emits a gamma radiation source into the soil, measuring the scattered radiation, which is related to the soil density.</li><li> Repeat the process at various points to obtain representative data.</li></ol>",
+        "metodo-2-resultado":"<b>Result:</b> Direct readings of soil density are obtained without the need for sample extraction.",  
+        
+        "pie-pagina":"These tests are crucial to ensure that the soil has the appropriate density and meets the support capacity requirements for construction projects. The collected information helps adjust moisture content during compaction to achieve maximum density and efficiency. The combined use of these methods provides a comprehensive assessment of soil compaction quality."
     },
     "laboratorio-suelos":{
         "titulo":"SOIL LABORATORY",
         "resumen": "We work according to the construction specifications in Nicaragua's industry. Geonicsa performs comprehensive quality control tests on soils and materials. We rigorously apply national regulations NIC-2000, as well as international standards ASTM and AASHTO, accumulating extensive experience in this area. We have a complete quality control team and the capacity to establish field laboratories.",
+        
         "actividad-1-titulo": "Sample Preparation",
-        "actividad-1-desc":"Soil laboratories receive soil samples taken from specific sites, either during subsurface exploration or as part of construction projects. The preparation of these samples is a critical initial phase.",
+        "actividad-1-desc":"Soil laboratories receive soil samples taken from specific sites, either during subsurface exploration or as part of construction projects.The study of these samples is the critical initial phase of any study.",
         
         "actividad-2-titulo": "Grain Size Analysis",
-        "actividad-2-desc":"The distribution of particle sizes in a soil sample is determined. This is essential for classifying the soil according to classification systems such as the Unified Soil Classification System (USCS).",
+        "actividad-2-desc":"With this test we determine the particle size distribution in a soil sample. This is essential for classifying the soil according to the Unified Soil Classification System (USCS).",
         
         "actividad-3-titulo": "Atterberg Limits",
-        "actividad-3-desc":"Tests are conducted to determine the plasticity and liquid limits of the soil. These limits are important for understanding the soil's behavior under different moisture conditions.",
+        "actividad-3-desc":"We conduct this test to determine the plasticity and liquid limits of the soil. These limits are important for understanding soil behavior under different moisture conditions.",
         
         "actividad-4-titulo": "Compaction Tests",
-        "actividad-4-desc":"Compaction tests are carried out to evaluate the maximum density and optimal moisture of the soil under specific compaction conditions. This is essential for the design of embankments and foundations.",
+        "actividad-4-desc":"We carry out compaction tests to evaluate the maximum density and optimum moisture content of soil under specific compaction conditions. This is essential for embankment and foundation design",
        
         "actividad-5-titulo": "Direct Shear and Triaxial Tests",
-        "actividad-5-desc":"Tests are conducted to assess the soil's shear strength under different stress conditions. This is crucial for the design of retaining structures, containment walls, and other geotechnical elements.",
-        "actividad-6-titulo": "Consolidation Tests"
+        "actividad-5-desc":"We perform these tests to assess soil shear strength under different stress conditions. This is crucial for the design of retaining structures, retaining walls, and other geotechnical elements.",
+        
+        "actividad-6-titulo": "Consolidation Tests",
+        "actividad-6-desc": "We conduct consolidation tests to evaluate soil compressibility and settlement capacity. This is vital for projects where significant settlement is expected.",
 
+        "actividad-7-titulo":"In-situ Soil Density",
+        "actividad-7-desc":"Devices like the nuclear density gauge are used to measure in-situ soil density. This test provides information on soil compaction during construction.",
+
+        "test-especiales-titulo":"Special Tests",
+        "tests-especiales-resumen":"Depending on the project's nature, we carry out special tests to address specific soil characteristics, such as permeability tests, expansion tests, among others, as detailed below:",
+        "test-especiales-pt1":"Modified Proctor Test.<br>Standard Proctor Test.<br> California Bearing Ratio (CBR) Test.<br> Sand Equivalent Test.<br>Compaction, Density, and Moisture content.<br>Direct Shear Test.<br>Specific Weight and Absorption, Coarse Aggregate.<br> Specific Weight and Absorption, Fine Aggregate.<br>",
+        "test-especiales-pt2":"Void percentages in aggregates.<br> Los Angeles Abrasion Test.<br> Mortar Design.<br> Concrete Mix Design.<br> Core Extraction of Concrete and Asphalt with Diamond Core Drill.<br>Hardened Concrete Density and Absorption.<br>Compression Strength of Blocks and Pavers.<br>"
+
+    
     },
     "perforacion":{
         "titulo": "DRILLING", 
