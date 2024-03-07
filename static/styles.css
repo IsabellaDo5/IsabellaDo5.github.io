@@ -1,5 +1,3 @@
-
-
 /**/
 .logo {
     width: 95%;
@@ -83,14 +81,16 @@
     transition: box-shadow .4s;
     margin-bottom: 2rem !important;
 }
-.card-servicio{
-    height:92% !important;
+
+.card-servicio {
+    height: 92% !important;
 }
+
 .card-header {
     color: #0f3d56 !important;
     text-align: center !important;
     background-color: white !important;
-    
+
     border-bottom: 0 !important;
 }
 
@@ -151,6 +151,8 @@
     /* Permite interactuar con la imagen subyacente */
 }
 
+
+
 .descripcion-servicio {
     margin-top: 2rem !important;
     margin-bottom: 2rem !important;
@@ -203,12 +205,15 @@
     height: 40vh;
     object-fit: cover;
 }
-.dropdown-menu{
+
+.dropdown-menu {
     --bs-dropdown-min-width: 0% !important;
 }
-.card-desc{
-    padding:1.8rem !important;
+
+.card-desc {
+    padding: 1.8rem !important;
 }
+
 h2 {
     margin: 5vh !important;
 }
@@ -276,8 +281,14 @@ a {
     .info {
         font-size: 1rem !important;
     }
-    .lang-icon{
+
+    .lang-icon {
         width: 2.5rem !important;
+    }
+    .img-ccm {
+        width: 80%;
+        height: 100%;
+        object-fit: cover;
     }
 
 }
@@ -285,6 +296,11 @@ a {
 @media only screen and (max-width: 500px) {
     .logo {
         width: 85%;
+    }
+    .img-ccm {
+        width: 95vw;
+        height: 100%;
+        object-fit: cover;
     }
 }
 
@@ -301,7 +317,13 @@ a {
     .info {
         font-size: 1.5rem !important;
     }
-    .lang-icon{
+
+    .lang-icon {
         width: 2.7rem !important;
+    }
+    .img-ccm {
+        width: 50%;
+        height: 100%;
+        object-fit: cover;
     }
 }
