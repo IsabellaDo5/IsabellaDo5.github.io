@@ -152,7 +152,12 @@
 }
 
 
-
+.img-servicio{
+    width: 80%;
+    height:auto;
+    object-fit: cover !important;
+    
+}
 .descripcion-servicio {
     margin-top: 2rem !important;
     margin-bottom: 2rem !important;
@@ -295,6 +300,9 @@ a {
         height: 100%;
         object-fit: cover;
     }
+    .img-servicio{
+        width:100%;
+    }
 
 }
 
@@ -307,6 +315,7 @@ a {
         height: 100%;
         object-fit: cover;
     }
+    
 }
 
 @media only screen and (min-width: 981px) {
