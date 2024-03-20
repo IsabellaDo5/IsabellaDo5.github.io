@@ -158,6 +158,10 @@
     object-fit: cover !important;
     
 }
+.img-fundador{
+    width: 50%;
+    object-fit: cover !important;
+}
 .descripcion-servicio {
     margin-top: 2rem !important;
     margin-bottom: 2rem !important;
@@ -302,6 +306,10 @@ a {
     }
     .img-servicio{
         width:100%;
+    }
+    .img-fundador{
+        width: 90%;
+        object-fit: cover !important;
     }
 
 }
