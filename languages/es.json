@@ -177,7 +177,19 @@
     
     },
     "proyectos": {
-        "titulo": "Nuestros proyectos"
+        "titulo": "Nuestros proyectos",
+        "p1":"PROYECTO ESTADIO DIRIAMBA",
+        "p2":"PROYECTO BCIE",
+        "p3":"PROYECTO MIRADOR PLAYA CASARES",
+        "p4":"PROYECTO AEROPUERTO CORN ISLAND",
+        "p5":"PROYECTO TUMARÍN",
+        "p6":"PROYECTO CLUB TERRAZA",
+        "p7":"PROYECTO PLANTA CARLOS FONSECA",
+        "p8":"PROYECTO PANTASMA WIWILI",
+        "p9":"PROYECTO EOLICAS LA FÉ",
+        "p10":"PROYECTO NAVE BELLAS CANVAS",
+        "p11":"PROYECTO HOSPITAL MILITAR"
+        
     },
     "datos-contacto": {
         "titulo": "CONTÁCTANOS",

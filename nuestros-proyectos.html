@@ -83,14 +83,14 @@
     </nav>
     <!-- AQUÍ TERMINA EL NAVBAR-->
     <div class="container-fluid azul texto-blanco banner-azul d-flex align-items-center justify-content-center">
-        <h3 >NUESTROS PROYECTOS</h3>
+        <h3 data-section="proyectos" data-value="titulo">NUESTROS PROYECTOS</h3>
     </div>
 
 
     <div class="container-fluid rounded-top-4 banner-blanco">
 
         <div class="container">
-            <div id="carouselExampleIndicators" class="carousel carousel-dark slide">
+            <div id="carouselExampleIndicators" class="carousel carousel-dark slide" style="margin-top: 5vh !important;">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
                         class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -98,6 +98,8 @@
                         aria-label="Slide 2"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
                         aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                        aria-label="Slide 4"></button>
                 </div>
                 <div class="carousel-inner">
                     
@@ -108,7 +110,7 @@
                                     <img src="./img/proyectos/PROYECTO_ESTADIO_DIRIAMBA.jpg"
                                         class="card-img-top imagen-proyectos" alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO ESTADIO DIRIAMBA</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p1" >PROYECTO ESTADIO DIRIAMBA</p>
                                     </div>
                                 </div>
                             </div>
@@ -117,7 +119,7 @@
                                     <img src="./img/proyectos/PROYECTO_BCIE.jpg" class="card-img-top imagen-proyectos"
                                         alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO BCIE</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p2">PROYECTO BCIE</p>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +128,7 @@
                                     <img src="./img/proyectos/PROYECTO_MIRADOR_PLAYA_CASARES.jpg" class="card-img-top imagen-proyectos"
                                         alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO MIRADOR PLAYA CASARES</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p3">PROYECTO MIRADOR PLAYA CASARES</p>
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +142,7 @@
                                     <img src="./img/proyectos/PROYECTO_AEROPUERTO_CORN_ISLAND.jpg"
                                         class="card-img-top imagen-proyectos" alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO AEROPUERTO CORN ISLAND</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p4">PROYECTO AEROPUERTO CORN ISLAND</p>
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +151,7 @@
                                     <img src="./img/proyectos/PROYECTO_TUMARIN.JPG" class="card-img-top imagen-proyectos"
                                         alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO TUMARÍN</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p5">PROYECTO TUMARÍN</p>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +160,7 @@
                                     <img src="./img/proyectos/PROYECTO_CLUB_TERRAZA.jpeg"
                                         class="card-img-top imagen-proyectos" alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO CLUB TERRAZA</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p6">PROYECTO CLUB TERRAZA</p>
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +174,7 @@
                                     <img src="./img/proyectos/PROYECTO_PLANTA_CARLOS_FONSECA.jpg"
                                         class="card-img-top imagen-proyectos" alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO PLANTA CARLOS FONSECA</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p7">PROYECTO PLANTA CARLOS FONSECA</p>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +183,7 @@
                                     <img src="./img/proyectos/PROYECTO_PANTASMA_WIWILI.JPG" class="card-img-top imagen-proyectos"
                                         alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO PANTASMA WIWILI</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p8">PROYECTO PANTASMA WIWILI</p>
                                     </div>
                                 </div>
                             </div>
@@ -190,12 +192,37 @@
                                     <img src="./img/proyectos/PROYECTO_EOLICAS_LA_FE.JPG"
                                         class="card-img-top imagen-proyectos" alt="...">
                                     <div class="card-body">
-                                        <p class="card-text">PROYECTO EOLICAS LA FE</p>
+                                        <p class="card-text" data-section="proyectos" data-value="p9">PROYECTO EOLICAS LA FE</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <div class="carousel-item ">
+                        <div class="row justify-content-center">
+                            <div class="col-md ">
+                                <div class="card" style="width: 100%;">
+                                    <img src="./img/proyectos/PROYECTO_NAVE_BELLAS_CANVAS.jpg"
+                                        class="card-img-top imagen-proyectos" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text" data-section="proyectos" data-value="p10">PROYECTO NAVE BELLAS CANVAS</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md">
+                                <div class="card" style="width: 100%">
+                                    <img src="./img/proyectos/PROYECTO_HOSPITAL_MILITAR.jpg" class="card-img-top imagen-proyectos"
+                                        alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text"data-section="proyectos" data-value="p11">PROYECTO HOSPITAL MILITAR</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
                     data-bs-slide="prev">

@@ -173,7 +173,18 @@
         "vacsa-4":"Soil study of Grupo Q central office on Jean Paul Genie track."
     },
     "proyectos":{
-        "titulo": "OUR PROJECTS"
+        "titulo": "OUR PROJECTS",
+        "p1":"DIRIAMBA STADIUM PROJECT",
+        "p2":"BCIE PROJECT",
+        "p3":"MIRADOR PLAYA CASARES PROJECT",
+        "p4":"CORN ISLAND AIRPORT PROJECT",
+        "p5":"TUMARÍN PROJECT",
+        "p6":"CLUB TERRAZA PROJECT",
+        "p7":"PLANTA CARLOS FONSECA PROJECT",
+        "p8":"PANTASMA WIWILI PROJECT",
+        "p9":"EOLICAS LA FÉ PROJECT",
+        "p10":"NAVE BELLAS CANVAS PROJECT",
+        "p11":"HOSPITAL MILITAR PROJECT"
     },
     "datos-contacto":{
         "titulo": "CONTACT US",
