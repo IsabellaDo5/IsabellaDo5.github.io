@@ -1,6 +1,6 @@
 /**/
 .logo {
-    width: 95%;
+    width: 80%;
     height: fit-content;
 }
 
@@ -266,7 +266,7 @@ a {
 
 @media only screen and (max-width: 980px) {
     .logo {
-        width: 92%;
+        width: 14rem;
     }
 
     .servicios-lista {
@@ -316,7 +316,7 @@ a {
 
 @media only screen and (max-width: 500px) {
     .logo {
-        width: 85%;
+        width: 13rem;
     }
     .img-ccm {
         width: 95vw;
@@ -328,7 +328,7 @@ a {
 
 @media only screen and (min-width: 981px) {
     .logo {
-        width: 115% !important;
+        width: 16rem !important;
     }
 
     .nav-ul {
